@@ -2,8 +2,8 @@
 ------
 
 ### Art Piece 1
-![Virtual Color Organ](Images/image1.png?raw=true "Virtual Color Organ")
-![Virtual Color Organ](Images/image2.png?raw=true "Virtual Color Organ")
+![Virtual Color Organ](images/image1.png?raw=true "Virtual Color Organ")
+![Virtual Color Organ](images/image2.png?raw=true "Virtual Color Organ")
 
 Virtual Color Organ
 Jack Ox and David Britton
@@ -15,9 +15,9 @@ I was drawn to the work of Jack Ox and David Britton, who have been creating an 
 
 
 ### Art Piece 2
-![Dennis Miller](Images/red.png?raw=true "Dennis Miller")
-![Dennis Miller](Images/green.png?raw=true "Dennis Miler")
-![Dennis Miller](Images/blue.png?raw=true "Dennis Miler")
+![Dennis Miller](images/red.png?raw=true "Dennis Miller")
+![Dennis Miller](images/green.png?raw=true "Dennis Miler")
+![Dennis Miller](images/blue.png?raw=true "Dennis Miler")
 
 R.G.B: 3 Chromatic Studies
 Dennis H. Miller
